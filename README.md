@@ -1,1 +1,1 @@
-"# techniques_of_semantic_analysis_assignments" 
+Assignments for the course Techniques of semantic analysis
